@@ -1,2 +1,0 @@
-#!/bin/bash
-cat 20-haigo | tr -dc '[:alnum:]\n\r' | tr '[:upper:]' '[:lower:]'
